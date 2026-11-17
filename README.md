@@ -23,6 +23,13 @@ explained as Module 1 theory only. Synthetic data and test samples only.
 No real patient records. No diagnosis, no treatment advice. Classification
 and extraction only, not for clinical use.
 
+## Video
+
+<video src="https://raw.githubusercontent.com/MediDigit/MediDigit/main/MediDigit-Explainer.mp4" poster="video-thumbnail.png" controls width="100%"></video>
+
+64-second narrated walkthrough: the problem, the pipeline, and the
+results. Also available as [`MediDigit-Explainer.mp4`](MediDigit-Explainer.mp4).
+
 ## How it works
 
 One Colab notebook, `MediDigit.ipynb`, 22 cells, runs top to bottom.
@@ -61,6 +68,7 @@ One Colab notebook, `MediDigit.ipynb`, 22 cells, runs top to bottom.
 - `MediDigit.ipynb`: the Colab notebook (Module 1 only, 22 cells).
 - `MediDigit-Activity-2-Report.pdf`: the Activity 2 report (15 pages).
 - `MediDigit-Explainer.mp4`: 64-second narrated explainer video.
+- `video-thumbnail.png`: poster frame for the video preview.
 
 ## Results
 
