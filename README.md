@@ -27,7 +27,7 @@ and extraction only, not for clinical use.
 
 
 
-<video src="https://github.com/user-attachments/assets/e31ca165-9209-4600-b6c2-f4e62e65219e" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/e31ca165-9209-4600-b6c2-f4e62e65219e" data-canonical-src="https://github.com/user-attachments/assets/e31ca165-9209-4600-b6c2-f4e62e65219e" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px; min-height: 200px"></video>
 
 
 64-second narrated walkthrough: the problem, the pipeline, and the
