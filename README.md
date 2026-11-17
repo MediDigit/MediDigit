@@ -25,7 +25,7 @@ and extraction only, not for clinical use.
 
 ## Video
 
-<video src="https://raw.githubusercontent.com/MediDigit/MediDigit/main/MediDigit-Explainer.mp4" poster="video-thumbnail.png" controls width="100%"></video>
+[![MediDigit explainer video — click to play](video-thumbnail.png)](MediDigit-Explainer.mp4)
 
 64-second narrated walkthrough: the problem, the pipeline, and the
 results. Also available as [`MediDigit-Explainer.mp4`](MediDigit-Explainer.mp4).
