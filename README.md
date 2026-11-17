@@ -60,6 +60,7 @@ One Colab notebook, `MediDigit.ipynb`, 22 cells, runs top to bottom.
 
 - `MediDigit.ipynb`: the Colab notebook (Module 1 only, 22 cells).
 - `MediDigit-Activity-2-Report.pdf`: the Activity 2 report (15 pages).
+- `MediDigit-Explainer.mp4`: 64-second narrated explainer video.
 
 ## Results
 
