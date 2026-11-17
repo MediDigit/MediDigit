@@ -1,0 +1,8 @@
+# Generated outputs, created on each run, not committed
+*.db
+*.xlsx
+*.csv
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
